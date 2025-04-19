@@ -1,2 +1,2 @@
-# webpack-template
+# Webpack Template
 A template for initializing Webpack.
